@@ -7,7 +7,7 @@ import {
   deleteTask,
   getTasksByUserId,
   updateTaskCompletion,
-} from "@/actions/tasks";
+} from "@/actions/task";
 
 interface User {
   id: string;
